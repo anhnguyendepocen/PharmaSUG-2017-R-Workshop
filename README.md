@@ -48,7 +48,7 @@ https://beta.rstudioconnect.com/content/2771/
 
 IMMUNOGENICITY Book Tech Document:
 
-https://beta.rstudioconnect.com/content/2772/
+https://beta.rstudioconnect.com/content/2899/
 
 Presentations and code from workshop.
 
